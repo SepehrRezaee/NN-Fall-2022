@@ -1,2 +1,2 @@
-# NeuralNetwork_TheCourseOf_ShahidBeheshtiUniversity
-This repository is about the neural netowrk course that helding in Shahid Beheshti University
+# ArtificialNeuralNetwork_TheCourseOf_ShahidBeheshtiUniversity
+This repository is about the neural network course that is held at Shahid Beheshti University
